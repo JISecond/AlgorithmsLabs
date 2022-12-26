@@ -1,0 +1,8 @@
+﻿  Lab2Array.cpp
+D:\ИТМо\алгоритнмы\проеты\Lab2Array\Lab2Array\Lab2Array.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  0 of 1 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lab2Array.vcxproj -> D:\ИТМо\алгоритнмы\проеты\Lab2Array\x64\Release\Lab2Array.exe
