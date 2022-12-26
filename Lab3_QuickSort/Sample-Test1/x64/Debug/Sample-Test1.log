@@ -1,0 +1,15 @@
+﻿  test.cpp
+D:\ИТМо\алгоритнмы\проеты\Lab3QuickSort\Sample-Test1\test.cpp(9,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ИТМо\алгоритнмы\проеты\Lab3QuickSort\Sample-Test1\test.cpp(25,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ИТМо\алгоритнмы\проеты\Lab3QuickSort\Sample-Test1\test.cpp(43,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ИТМо\алгоритнмы\проеты\Lab3QuickSort\Sample-Test1\test.cpp(61,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ИТМо\алгоритнмы\проеты\Lab3QuickSort\Sample-Test1\test.cpp(77,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ИТМо\алгоритнмы\проеты\Lab3QuickSort\Sample-Test1\test.cpp(93,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ИТМо\алгоритнмы\проеты\Lab3QuickSort\Sample-Test1\test.cpp(95,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ИТМо\алгоритнмы\проеты\Lab3QuickSort\Sample-Test1\test.cpp(109,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ИТМо\алгоритнмы\проеты\Lab3QuickSort\Sample-Test1\test.cpp(111,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ИТМо\алгоритнмы\проеты\Lab3QuickSort\Sample-Test1\test.cpp(126,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ИТМо\алгоритнмы\проеты\Lab3QuickSort\Sample-Test1\test.cpp(128,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ИТМо\алгоритнмы\проеты\Lab3QuickSort\Sample-Test1\test.cpp(142,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ИТМо\алгоритнмы\проеты\Lab3QuickSort\Sample-Test1\test.cpp(144,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Sample-Test1.vcxproj -> D:\ИТМо\алгоритнмы\проеты\Lab3QuickSort\x64\Debug\Sample-Test1.exe
