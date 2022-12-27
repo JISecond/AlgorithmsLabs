@@ -10,8 +10,9 @@
 
 
 
+![график](https://user-images.githubusercontent.com/115889759/209650639-7fface94-431b-491f-aee1-2c9a5a1ecf2e.png)
 
-![график](https://user-images.githubusercontent.com/115889759/209590270-a247d8bd-fe40-4ccd-ab39-1cdacec37736.png)
+
 
 
 Из графика видно, что при броске одной кости вне зависимости от количества сторон распределение значений будет равномерным.
