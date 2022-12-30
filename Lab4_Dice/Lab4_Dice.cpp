@@ -196,7 +196,7 @@ int main() {
 
 	std::ofstream f("diceRes.txt");
 
-	vector<string> diceSet = { "1d6","2d6","3d6","1d10","2d10","3d10","6d10" };
+	vector<string> diceSet = { "1d6","2d6","3d6","1d10","2d10","3d10" };
 	for (int i = 0; i < diceSet.size(); i++) {
 		if (f.is_open())
 			f << diceSet[i] << '\t';
